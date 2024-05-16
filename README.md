@@ -1,1 +1,1 @@
-# JavaScript
+# Purbana is a gandu
