@@ -1,1 +1,1 @@
-# This repository contains javascript learning purposes.
+# This repository is for javascript learning purposes.
