@@ -1,1 +1,1 @@
-# Purbana is a gandu
+# This repository contains javascript learning purposes.
